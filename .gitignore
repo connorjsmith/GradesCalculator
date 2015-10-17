@@ -1,4 +1,4 @@
 /node_modules/*
-*.css
-*.map
+/public/stylesheets/*.css
+/public/stylesheets/*.map
 /.sass-cache
