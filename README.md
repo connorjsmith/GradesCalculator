@@ -1,4 +1,5 @@
 # A simple Grade Calculator
+* Remember to `npm install`!
 
 ## Goals
 * Easy to use and track grades calculator with weighted assignments
@@ -12,3 +13,4 @@
 
 ## Contributing
 It's still so early, but submit a PR if you're interested
+
