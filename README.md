@@ -1,5 +1,6 @@
 # A simple Grade Calculator
 * Remember to `npm install`!
+* To start the server, run `npm start` and then navigate to `localhost:3000` in a web browser.
 
 ## Goals
 * Easy to use and track grades calculator with weighted assignments
