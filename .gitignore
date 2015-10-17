@@ -2,3 +2,5 @@
 /public/stylesheets/*.css
 /public/stylesheets/*.map
 /.sass-cache
+#temp files from emacs
+*~
