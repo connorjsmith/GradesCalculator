@@ -2,6 +2,7 @@
 * Remember to `npm install`!
 * To start the server, run `npm start` and then navigate to `localhost:3000` in a web browser.
 * If you make a change to `.scss` files, you must run `scss --update src/stylesheets:public/stylesheets` **from the root directory**
+* If you change `calc.jsx`, remembere to run `gulp` **from the root directory**.
 
 ### Running on a separate port
 `PORT=XXXX npm start`
